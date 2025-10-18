@@ -1,2 +1,2 @@
 # CodePractice
-Way to programming something
+practices
